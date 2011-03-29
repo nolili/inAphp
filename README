@@ -1,0 +1,1 @@
+The /html folder has to be web-accesible, modify the configuration inside inaphp.php
